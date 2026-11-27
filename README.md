@@ -87,3 +87,7 @@ Add `--help` to any command for its options. See [references/usage.md](reference
 ## Privacy
 
 Your token gives access to your LMS account. Keep it in the config file or in environment variables. Never commit it or paste it into a chat. The script redacts the token from its output. Delete the token from the LMS settings page to revoke access.
+
+## License
+
+[MIT](LICENSE)
